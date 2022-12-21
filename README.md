@@ -47,5 +47,5 @@
 <ul>authentication with refresh token</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207848772-e6a144d0-7c3d-48db-a96a-9769d601ed89.png">
   
-<img src="(https://user-images.githubusercontent.com/80590096/209025735-6945c263-0322-43fc-9a5a-ee24c0eda83d.png">
+<img src="https://user-images.githubusercontent.com/80590096/209025735-6945c263-0322-43fc-9a5a-ee24c0eda83d.png">
 
