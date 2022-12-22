@@ -34,7 +34,7 @@
 <ul>Liste des produits</ul>
 <img src="https://user-images.githubusercontent.com/80590096/209116024-e72c8391-6671-494f-9279-15a4d757c45d.PNG">
 <ul>Liste des factures d'un client</ul>
-
+<img src="https://user-images.githubusercontent.com/80590096/209116954-7f01aac1-d872-4d83-81c8-b20a14ce40eb.PNG">
 
 
  
