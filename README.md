@@ -1,5 +1,5 @@
-# Activite-Pratique-du-Controle
-<h1><i>1-Objectif de l'Atelier:</i><h1>
+# Controle-JEE
+<h1><i>1-L'Objectif de l'Atelier:</i><h1>
 <h3>Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.</h3>
 <ol>
   <li>Micro-service customer-service qui permet de gérer les client</li>
