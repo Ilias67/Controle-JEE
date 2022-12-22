@@ -29,7 +29,12 @@
 <img src="https://user-images.githubusercontent.com/80590096/209092313-d013f233-633a-4758-938a-3662844d8216.PNG"/> 
 <img src="https://user-images.githubusercontent.com/80590096/209092704-00b1f166-702e-42b9-b37f-21565e6e81ea.PNG"/>  
 <h1><i>3-Partie Front (Angular) :</i><h1>
+<ul>Liste des produits</ul>
+<img src="https://user-images.githubusercontent.com/80590096/209116003-cf232ef6-101b-42df-9345-24611eab3d48.PNGg">
+<ul>Liste des clients</ul>
+<img src="https://user-images.githubusercontent.com/80590096/209116024-e72c8391-6671-494f-9279-15a4d757c45d.PNG">
+<ul>Liste des factures d'un client</ul>
 
-  
-  
+
+
  
