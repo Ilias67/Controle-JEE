@@ -23,12 +23,13 @@
 <h1><i>2-Architecture de l'atelier :</i><h1>
 <img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
 <h1><i>3-La simulation :</i><h1>
-<img src="https://user-images.githubusercontent.com/74361043/207727000-7a8f4d8d-0b8b-4f72-adfa-ff8e0e16793d.png"/>
-<img src="https://user-images.githubusercontent.com/74361043/207727399-0b08a790-fe3f-40a3-acf3-f7f65b4db0e4.png"/>
-<img src="https://user-images.githubusercontent.com/74361043/207728133-6f20942b-f7f5-48ef-bf58-f58995cde985.png">
-<img src="https://user-images.githubusercontent.com/74361043/207728477-ec4974dc-f70d-406d-94b9-b12ced726991.png">
-  <ul>Eureka Service</ul>
-  <img src="https://user-images.githubusercontent.com/74361043/207845098-8d43032c-d999-4269-87d7-21550dcf2a16.png">
+<img src="https://user-images.githubusercontent.com/80590096/209091463-0fe25b5b-b8fe-4331-a200-0b466f0af665.PNG"/>
+ <img src="(https://user-images.githubusercontent.com/80590096/209091588-0c40b8de-3c4d-466c-a334-74d1cd32cd69.PNG"/>  
+<img src="https://user-images.githubusercontent.com/80590096/209092073-a368fc23-1777-4570-9764-2d584f1406a3.PNG"/>  
+<img src="https://user-images.githubusercontent.com/80590096/209092256-7701818a-37c5-428d-b900-c5c16539141c.PNG"/>  
+<img src="https://user-images.githubusercontent.com/80590096/209092280-93dda850-784c-4f6b-af2b-8b8ae3b986f0.PNG"/>  
+<img src="(https://user-images.githubusercontent.com/80590096/209092313-d013f233-633a-4758-938a-3662844d8216.PNG"/> 
+<img src="https://user-images.githubusercontent.com/80590096/209092704-00b1f166-702e-42b9-b37f-21565e6e81ea.PNG"/>  
 <h1><i>4-Partie Front (Angular) :</i><h1>
 <ul>Liste des produits</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207729026-68fa772c-384a-4246-bdb4-5f1573f86feb.png">
@@ -38,5 +39,6 @@
 <img src="https://user-images.githubusercontent.com/74361043/207729424-62d6c16f-f472-4761-b8a3-f1ca9b540eb6.png">
 <ul>Details d'une facture d'un client</ul>
 <img src="https://user-images.githubusercontent.com/74361043/207732271-9d842f44-6c78-4f27-bfe6-716928e6966e.png">
-
+  
+  
  
