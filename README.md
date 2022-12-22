@@ -24,11 +24,11 @@
 <img src="https://user-images.githubusercontent.com/48455549/206859150-63e5c806-86a2-4937-8791-9a7ce2464316.PNG">
 <h1><i>3-La simulation :</i><h1>
 <img src="https://user-images.githubusercontent.com/80590096/209091463-0fe25b5b-b8fe-4331-a200-0b466f0af665.PNG"/>
- <img src="(https://user-images.githubusercontent.com/80590096/209091588-0c40b8de-3c4d-466c-a334-74d1cd32cd69.PNG"/>  
+<img src="https://user-images.githubusercontent.com/80590096/209091588-0c40b8de-3c4d-466c-a334-74d1cd32cd69.PNG"/>  
 <img src="https://user-images.githubusercontent.com/80590096/209092073-a368fc23-1777-4570-9764-2d584f1406a3.PNG"/>  
 <img src="https://user-images.githubusercontent.com/80590096/209092256-7701818a-37c5-428d-b900-c5c16539141c.PNG"/>  
 <img src="https://user-images.githubusercontent.com/80590096/209092280-93dda850-784c-4f6b-af2b-8b8ae3b986f0.PNG"/>  
-<img src="(https://user-images.githubusercontent.com/80590096/209092313-d013f233-633a-4758-938a-3662844d8216.PNG"/> 
+<img src="https://user-images.githubusercontent.com/80590096/209092313-d013f233-633a-4758-938a-3662844d8216.PNG"/> 
 <img src="https://user-images.githubusercontent.com/80590096/209092704-00b1f166-702e-42b9-b37f-21565e6e81ea.PNG"/>  
 <h1><i>4-Partie Front (Angular) :</i><h1>
 <ul>Liste des produits</ul>
