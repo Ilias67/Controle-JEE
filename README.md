@@ -45,5 +45,25 @@
 
 <img src="https://user-images.githubusercontent.com/80590096/219804715-5f9b9dd2-420b-46fd-a81f-c8903ef2c28c.PNG">
 
+<h1 id="kafka">KAFKA</h1>
+<h2 id="-tape-1-int-gration-du-bocker-kafka">Étape 1 : Intégration du Bocker KAFKA</h2>
+<p>Le projet commence par l&#39;intégration de Bocker KAFKA. Kafka est une plateforme de streaming distribuée qui permet de gérer des flux de données en temps réel. Cette étape permet d&#39;installer et de configurer Kafka dans le projet.</p>
+<h2 id="-tape-2-cr-ation-d-un-micro-service-de-facturation">Étape 2 : Création d&#39;un micro-service de facturation</h2>
+<p>Ensuite, un micro-service de facturation a été développé. Ce service génère aléatoirement des factures et les publie dans un Topic Kafka. Ce service est responsable de la production des factures à des fins de démonstration.</p>
+<h2 id="-tape-3-int-gration-du-micro-service-de-facturation-dans-billing-service">Étape 3 : Intégration du micro-service de facturation dans BILLING-SERVICE</h2>
+<p>Le micro-service de facturation a été intégré dans BILLING-SERVICE. Ce service consomme les factures publiées dans le Topic Kafka et les enregistre dans sa base de données.</p>
+<h2 id="-tape-4-cr-ation-d-un-micro-service-de-data-analytics">Étape 4 : Création d&#39;un micro-service de Data Analytics</h2>
+<p>Un micro-service de Data Analytics a été créé pour traiter les flux de données en temps réel. Ce service utilise l&#39;API KAFKA Streams pour effectuer du Real Time Stream Processing en consommant les flux de factures publiées dans le Topic Kafka.</p>
+<h2 id="-tape-5-cr-ation-d-une-page-frontend-pour-afficher-les-r-sultats">Étape 5 : Création d&#39;une page Frontend pour afficher les résultats</h2>
+<p>Une page Frontend a été développée pour afficher les résultats produits par le service de Data Analytics en temps réel. Cette page présente les courbes qui montrent les résultats produits par le service du Data Analytics.</p>
+<h2 id="-tape-6-d-ploiement-de-l-application-en-utilisant-docker">Étape 6 : Déploiement de l&#39;application en utilisant Docker</h2>
+<p>L&#39;ensemble des services de l&#39;application ont été déployés en utilisant Docker. Des images Docker ont été créées pour chaque service et un fichier Docker-compose.yml a été mis en place pour déployer l&#39;ensemble de l&#39;application.</p>
+<h2 id="s-curisation-des-micro-services-et-du-frontend-avec-les-adaptateurs-keycloak">Sécurisation des micro-services et du frontend avec les adaptateurs Keycloak</h2>
+<p>Pour renforcer la sécurité des micro-services et du frontend Angular, des adaptateurs Keycloak ont été déployés. Keycloak est une plateforme open source d&#39;authentification et d&#39;autorisation, qui permet de protéger les applications contre les attaques.</p>
+<p>Les adaptateurs Keycloak ont été intégrés à l&#39;ensemble des micro-services de l&#39;application. Ils permettent de sécuriser l&#39;accès aux données en mettant en place une authentification et une autorisation renforcée.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>En conclusion, ce projet a sécurisé avec succès les micro-services et le frontend Angular en déployant les adaptateurs Keycloak. En intégrant Keycloak, une plateforme d&#39;authentification et d&#39;autorisation open source, nous avons pu protéger l&#39;application contre les attaques et garantir que les données sont sécurisées.</p>
+<p>Au cours des différentes étapes du projet, nous avons intégré Kafka, créé un micro-service pour générer des factures aléatoires, intégré ce service à BILLING-SERVICE, créé un service d&#39;analyse de données à l&#39;aide de Kafka streams, développé une page frontend pour afficher les résultats en temps réel produits par le service d&#39;analyse de données. Enfin, nous avons déployé tous les services à l&#39;aide de Docker et les avons sécurisés avec Keycloak.</p>
+<p>Dans l&#39;ensemble, ce projet a démontré l&#39;importance de sécuriser les micro-services et le frontend d&#39;une application, en particulier dans les scénarios où des données sensibles sont impliquées. Le déploiement réussi des adaptateurs Keycloak dans ce projet est une manière efficace de garantir que les données restent sécurisées et que l&#39;accès non autorisé est empêché.</p>
 
 
